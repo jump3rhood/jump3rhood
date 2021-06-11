@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React JS and SASS
 - 📫 How to reach me 
-      Email me at jm8dauntless@gmail.com
+      Email me at mjm13121@gmail.com
       
 
 
