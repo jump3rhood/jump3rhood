@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jump3rhood
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React JS and SASS
+- 🌱 I’m currently unit-testing and E2E testing of MERN applications
 - 📫 How to reach me 
       Email me at mjm13121@gmail.com
       
